@@ -21,16 +21,16 @@ Creating or revising a resume <br>
 
 
 
-What are your strengths (ones you currently have or plan to develop)?
+<b>What are your strengths (ones you currently have or plan to develop)?</b>
 My current strengths include strong communication, problem-solving, and customer experience skills, along with a solid understanding of digital systems and technical support. I have a proven ability to simplify complex concepts for diverse audiences and stay calm under pressure. As I transition into cybersecurity, I’m building on this foundation by developing skills in network security, risk assessment, incident response, and threat analysis through the Google Cybersecurity Certificate and ongoing self-study. I’m also focused on growing my proficiency with tools like Wireshark, Splunk, and Linux-based systems to further support my future roles in the field.
 
-What are your values?
+<b>What are your values?</b>
 I value integrity, continuous learning, accountability, and empowering others through technology. I believe in building trust by protecting sensitive information, being proactive in solving problems, and staying adaptable in an ever-changing digital world.
 
-What interests you most about a career in cybersecurity?
+<b>What interests you most about a career in cybersecurity?</b>
 What excites me most about cybersecurity is the opportunity to protect people, businesses, and data from real-world digital threats. I enjoy thinking critically, learning emerging technologies, and using my skills to solve complex problems that have meaningful, real-world impact.
 
-How can your strengths, values, and interest in cybersecurity support the security goals of various organizations?
+<b>How can your strengths, values, and interest in cybersecurity support the security goals of various organizations?</b>
 With a strong foundation in customer experience, digital systems, and communication, I bring a unique user-centered perspective to cybersecurity. My values of integrity and growth, combined with my technical aptitude and passion for problem-solving, enable me to contribute to creating secure, resilient environments where people and systems can thrive.
 
 
